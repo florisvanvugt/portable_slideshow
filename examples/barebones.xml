@@ -1,0 +1,10 @@
+<slideshow>
+  <slide background="white" ratio=".75">
+    <content>
+      <box id="1" type="rect" x="0" y="0" w="1" h=".1" fill="#0000dd" />
+      <box id="2" type="rect" x=".2" y=".3" w=".3" h=".2" fill="#ff0000" />
+      <box id="3" type="text" x=".1" y="0.01"  text="Example slide" font="LinLibertine_RB_G" size=".05" color="#ffffff" />
+      <box id="4" type="text" x=".2" y=".8" text="Some text" font="LinLibertine_RB_G" size=".04" color="#000000" />
+    </content>
+  </slide>
+</slideshow>
